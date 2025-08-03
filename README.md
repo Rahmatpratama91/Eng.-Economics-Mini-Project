@@ -1,13 +1,13 @@
 # Engineering Economics Mini Project with Python 
 
 ## 📝 Problem:
-- Mini Eng. economics project to calculates and calculates cash flows each year
+- Helping engineer to calculate values related to Eng. economics project. This project utilizing Python to solve this case.
 
 ## ⚙️ Tools Used:
-- Python (matplotlib,numpy)
+- Python (Matplotlib, Numpy)
 
 ## 📈 Features:
-- Calculates basic engineering economics values such as IRR,NPV,cashflows, payback periods.
+- Calculates IRR, NPV, cashflows, payback periods.
 - Visualizes cash flows annually.
 
 ## ✅ Result:
