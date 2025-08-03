@@ -7,7 +7,7 @@
 - Python (matplotlib,numpy)
 
 ## 📈 Features:
-- Calculates basic engineering economics values such as PV, IRR,NPV,payback values.
+- Calculates basic engineering economics values such as IRR,NPV,cashflows, buyback values.
 - Visualizes cash flows annually.
 
 ## ✅ Result:
